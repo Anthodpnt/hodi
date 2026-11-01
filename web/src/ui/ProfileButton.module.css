@@ -1,0 +1,26 @@
+.button {
+  display: flex;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  flex-shrink: 0;
+  border-radius: 50%;
+  text-decoration: none;
+}
+
+@media (hover: hover) {
+  .button:hover {
+    opacity: 0.85;
+  }
+}
+
+.placeholder {
+  display: block;
+  flex-shrink: 0;
+}
+
+.still {
+  display: flex;
+  flex-shrink: 0;
+}

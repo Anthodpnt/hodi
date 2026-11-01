@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Logs
+*.log
+
+# Written by `npm run sources:list`: a test compares it with the generator as it is.
+docs/source-list.md
