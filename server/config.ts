@@ -24,7 +24,7 @@ export interface Config {
 }
 
 // Push services want a way to reach whoever sends: the project's page will do.
-const VAPID_SUBJECT = 'https://github.com/Anthodpnt/hodi-app'
+const VAPID_SUBJECT = 'https://github.com/Anthodpnt/hodi'
 
 const DATABASE_NAME = 'hodi.db'
 
